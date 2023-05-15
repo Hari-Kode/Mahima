@@ -1,4 +1,4 @@
-//guess a number (CODE WITH HARRY)
+//guess a number 
 
 #include<stdio.h>
 #include<stdlib.h>
